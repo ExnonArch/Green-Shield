@@ -4,8 +4,8 @@ GreenShield is an environmental intelligence web application built for the Hack 
 
 It combines real environmental data, interactive maps, transparent risk calculations, and AI-powered guidance to help people understand environmental conditions and take practical action.
 
-✨ Features\n
-🌦️ Real-time weather information\n
+✨ Features
+🌦️ Real-time weather information
 🌫️ Air-quality monitoring
 🌍 Interactive environmental map
 📍 Location search and map-based location selection
