@@ -37,3 +37,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Block all environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*
+
+# DO NOT block the template file (safe to share)
+!.env.example
+!.env.template
+
