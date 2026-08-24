@@ -1,12 +1,11 @@
-no
 🌍 GreenShield
 
 GreenShield is an environmental intelligence web application built for the Hack the Habitat 2026 hackathon.
 
 It combines real environmental data, interactive maps, transparent risk calculations, and AI-powered guidance to help people understand environmental conditions and take practical action.
 
-✨ Features
-🌦️ Real-time weather information
+✨ Features\n
+🌦️ Real-time weather information\n
 🌫️ Air-quality monitoring
 🌍 Interactive environmental map
 📍 Location search and map-based location selection
